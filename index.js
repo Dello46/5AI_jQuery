@@ -1,4 +1,4 @@
-
+document.getElementById("h1").innerHTML = "ciao come stai?";
 var btn = document.createElement("button");
 btn.innerHTML = "Clicca";
 
